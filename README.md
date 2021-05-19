@@ -38,7 +38,7 @@ session, following the proposed schedule below:
   
 ### Tuesday 6 July 2021
   Make sure to have read (see below):
-  - Math: Signal Processing + Fourier transform
+  - Math: Signal Processing
   - Prog: Numerical computing
 
 ### Wednesday 7 July 2021
@@ -46,6 +46,16 @@ session, following the proposed schedule below:
   - Math: Fourier transform
   - Prog: Scientific computing
 
+### Thursday 8 July 2021
+  Make sure to have read (seel below):
+  - Math: -
+  - Prog: -
+
+### Friday 9 July 2021 (Final Day)
+  Make sure to have read (seel below):
+  - Math: -
+  - Prog: -
+  
 Each morning (Monday, Tuesday and Wednesday), from 9am to 10am, we'll
 try to quickly highlight the main points on each lesson (15mn) and
 we'll take 45mn to answer any questions you may have on the lessons or
@@ -77,8 +87,6 @@ Data is available here: https://filesender.renater.fr/?s=download&token=b68b0686
 
 <br/><br/>
 
-
----
 ## Mathematical lessons
 
 ### [Linear Algebra](lessons/01-linear-algebra.pdf)
@@ -126,15 +134,15 @@ Sampling Theorem: https://www.dsprelated.com/freebooks/mdft/Sampling_Theory.html
 [Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation) and [Cross-correlation](https://en.wikipedia.org/wiki/Cross-correlation):
 (in both pages, focus on the case of ‘deterministic signals’ and ignore the case of random vectors)
 
-Autocorrelation: https://www.dsprelated.com/freebooks/mdft/Autocorrelation.html
+Autocorrelation : https://www.dsprelated.com/freebooks/mdft/Autocorrelation.html
 
-Crosscorrelation: https://www.dsprelated.com/freebooks/mdft/Cross_Correlation.html
+Crosscorrelation : https://www.dsprelated.com/freebooks/mdft/Cross_Correlation.html
 
 Video explanation and demo : https://www.youtube.com/watch?v=_r_fDlM0Dx0
 
 The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
 
-Fourier transforms :
+Fourier transform :
 
 https://en.wikipedia.org/wiki/Fourier_transform (up to 5.1 basic properties)
 
@@ -142,7 +150,7 @@ https://www.dsprelated.com/freebooks/mdft/Fourier_Theorems.html
 
 https://www.youtube.com/watch?v=spUNpyF58BY
 
-From DFT to FFT: https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
+From DFT to FFT : https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
 
 Intuitive definition : https://sites.northwestern.edu/elannesscohn/2019/07/30/developing-an-intuition-for-fourier-transforms/
 More complete definition : https://physiology.med.cornell.edu/people/banfelder/qbio/resources_2016/S.2_fourier.pdf
@@ -151,9 +159,7 @@ A video course on the basics of Fourier transform : https://www.ibiology.org/tal
 
 To go beyond, the history and many applications of Fourier transforms : http://www.yalescientific.org/2010/12/fourier-transform-natures-way-of-analyzing-data/
 
-Common applications:
-
-https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
+Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
 
 <br/>
 
@@ -172,11 +178,8 @@ equation.
 
 <br/>
 
-
 <br/><br/>
 
-
----
 ## Programming lessons
 
 ### [Installation](lessons/01-installation.md)
@@ -249,11 +252,10 @@ numpy and scipy work hand in hand.
 **See also**: [Elegant Scipy](https://github.com/elegant-scipy/elegant-scipy), [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
-
 ##  
 
-[Computational Neuroscience Crash Course (CNCC 2020)](https://github.com/rougier/CNCC-2020)  
-Copyright © 2020 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+[Computational Neuroscience Crash Course (CNCC 2021)](https://github.com/bordeaux-neurocampus/CNCC-2021-beginner)  
+Copyright © 2021 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 [Anaconda]:   https://www.anaconda.com/
 [Emacs]:      http://www.emacs.org/
