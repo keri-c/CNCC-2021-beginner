@@ -77,7 +77,7 @@ Data is available here: https://filesender.renater.fr/?s=download&token=77a5fac3
 
 
 
-
+---
 ## Mathematical lessons
 
 ### [Linear Algebra](lessons/01-linear-algebra.pdf)
@@ -130,13 +130,12 @@ Video explanation and demo : https://www.youtube.com/watch?v=_r_fDlM0Dx0
 
 The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
 
----
 Fourier transforms :
 
 https://en.wikipedia.org/wiki/Fourier_transform (up to 5.1 basic properties)
 https://www.dsprelated.com/freebooks/mdft/Fourier_Theorems.html
 https://www.youtube.com/watch?v=spUNpyF58BY
----
+
 From DFT to FFT: https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
 
 Intuitive definition : https://sites.northwestern.edu/elannesscohn/2019/07/30/developing-an-intuition-for-fourier-transforms/
@@ -149,6 +148,8 @@ To go beyond, the history and many applications of Fourier transforms : http://w
 Common applications:
 
 https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
+
+<br/>
 
 ### [Differential Equations (optional)](02-differential-equations.pdf)
 
@@ -168,6 +169,7 @@ equation.
 
 <br/><br/>
 
+---
 ## Programming lessons
 
 ### [Installation](lessons/01-installation.md)
