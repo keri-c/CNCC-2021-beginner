@@ -12,8 +12,8 @@ programming pre-requisites, and a second part next year
 on data analysis (and possibly modelling to follow).  
 
 For all courses (maths and programming), we'll provide some
-theoretical background, propose small exercices for participant to
-work on their own and then solve the exercices together and make sure
+theoretical background, propose small exercises for participant to
+work on their own and then solve the exercises together and make sure
 everybody has acquired the related concepts and techniques. Courses
 will be taught in English.  
  
@@ -73,8 +73,9 @@ online by sharing the screen of someone.
 For the project, we'll use Jupyter notebook and we'll start with the
 [project/introduction.ipynb](project/introduction.ipynb) notebook.
 
-Data is available here: https://filesender.renater.fr/?s=download&token=77a5fac3-ee68-40af-baab-4b34ab09d6b8
+Data is available here: https://filesender.renater.fr/?s=download&token=b68b0686-e805-4998-9939-7475684055ef
 
+<br/><br/>
 
 
 ---
@@ -99,7 +100,7 @@ and the resolution of a system of linear equations will be explained.
 
 [Matrices | Introduction, notation, properties](https://www.dsprelated.com/freebooks/mdft/Matrices.html)
 
-**Exercices**:
+**Exercises**:
  PDF link: https://drive.google.com/file/d/1i2xM37M35iSrTbXoNOX5qQFARRrH2MTn/view?usp=sharing
 
 <br/>
@@ -115,7 +116,10 @@ to reveal similarity between signals.
 **Prerequisites**: None  
 **On-line courses**:
 
-What is signal processing, and why ? https://www.youtube.com/watch?v=YmSvQe2FDKs
+
+What is signal processing, and why? https://www.youtube.com/watch?v=YmSvQe2FDKs
+
+Basic signals and their graphs: https://technobyte.org/signal-systems-types-differences/
 
 Sampling Theorem: https://www.dsprelated.com/freebooks/mdft/Sampling_Theory.html
 
@@ -133,7 +137,9 @@ The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
 Fourier transforms :
 
 https://en.wikipedia.org/wiki/Fourier_transform (up to 5.1 basic properties)
+
 https://www.dsprelated.com/freebooks/mdft/Fourier_Theorems.html
+
 https://www.youtube.com/watch?v=spUNpyF58BY
 
 From DFT to FFT: https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
@@ -168,6 +174,7 @@ equation.
 
 
 <br/><br/>
+
 
 ---
 ## Programming lessons
