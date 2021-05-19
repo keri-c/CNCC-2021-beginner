@@ -91,7 +91,7 @@ Data is available here: https://filesender.renater.fr/?s=download&token=b68b0686
 
 ### [Linear Algebra](lessons/01-linear-algebra.pdf)
 
-<img src="data/indent.png" align="left"/>
+<img src="figures/indent.png" align="left"/>
 
 This course will introduce vectors and matrices, how to peform operations such
 as addition & multiplication on these objects. The correspondence with geometry
@@ -115,7 +115,7 @@ and the resolution of a system of linear equations will be explained.
 
 ### Signal Processing
 
-<img src="data/indent.png" align="left"/>
+<img src="figures/indent.png" align="left"/>
 
 We'll explain first what is the Fourier transform that is ubiquituous in signal
 processing, what is spectral analysis and how to compute correlation in order
@@ -157,7 +157,7 @@ More complete definition : https://physiology.med.cornell.edu/people/banfelder/q
 
 A video course on the basics of Fourier transform : https://www.ibiology.org/talks/fourier-transform/
 
-To go beyond, the history and many applications of Fourier transforms : http://www.yalescientific.org/2010/12/fourier-transform-natures-way-of-analyzing-data/
+To go beyond, the history and many applications of Fourier transforms : http://www.yalescientific.org/2010/12/fourier-transform-natures-way-of-analyzing-figures/
 
 Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
 
@@ -165,7 +165,7 @@ Common applications of the Fourier Transform (Spectrograms) : https://www.dsprel
 
 ### [Differential Equations (optional)](02-differential-equations.pdf)
 
-<img src="data/indent.png" align="left"/>
+<img src="figures/indent.png" align="left"/>
 
 We'll cover first-order differential equations (that can for example describe
 the evolution of a membrane potential). We'll see how to analyze and solve such
@@ -184,7 +184,7 @@ equation.
 
 ### [Installation](lessons/01-installation.md)
 
-<img src="data/indent.png" align="left"/>
+<img src="figures/indent.png" align="left"/>
 
 This lesson aims at providing the student with a clean development environment,
 including Python installation and essential packages, a decent text editor, and
@@ -198,7 +198,7 @@ and explains how to run a python script from the command line.
 
 ### [Introduction](lessons/02-introduction.md)
 
-<img src="data/indent.png" align="left"/>
+<img src="figures/indent.png" align="left"/>
 
 We introduce here Python, a powerful and easy to learn programming language. It
 has *efficient high-level data structures and a simple but effective approach
@@ -212,7 +212,7 @@ cover the strict minimum necessary for getting started with numerical computing.
 
 ### [Numerical computing](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 
-<img src="data/indent.png" align="left"/>
+<img src="figures/indent.png" align="left"/>
 
 This lesson gives an overview of NumPy, the core library for performant
 numerical computing, with support for large, multi-dimensional arrays and
@@ -226,7 +226,7 @@ operate on these arrays.
 
 ### [Data Visualization](https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html)
 
-<img src="data/indent.png" align="left"/>
+<img src="figures/indent.png" align="left"/>
 
 We'll explore the matplotlib library which is a Python 2D plotting library
 which produces publication quality figures in a variety of hardcopy formats and
@@ -240,7 +240,7 @@ servers, and four graphical user interface toolkits.
 
 ### [Scientific computing](http://scipy-lectures.org/intro/scipy.html)
 
-<img src="data/indent.png" align="left"/>
+<img src="figures/indent.png" align="left"/>
 
 This lesson, from the scipy mlecture notes, will cover scipy which is a
 scientific-computing libraries, such as the GSL (GNU Scientific Library for C
