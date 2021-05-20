@@ -83,8 +83,6 @@ online by sharing the screen of someone.
 For the project, we'll use Jupyter notebook and we'll start with the
 [project/introduction.ipynb](project/introduction.ipynb) notebook.
 
-Data is available here: https://filesender.renater.fr/?s=download&token=b68b0686-e805-4998-9939-7475684055ef
-
 <br/><br/>
 
 ## Mathematical lessons
