@@ -181,8 +181,8 @@ cover the strict minimum necessary for getting started with numerical computing.
 **Prerequisites**: [Installation](#installation)  
 **See also**: [Official Python tutorial](https://docs.python.org/tutorial), [Dive into Python](https://diveintopython3.problemsolving.io/),
 [Learn Python](https://www.learnpython.org/)
-<br/>
 
+<br/>
 
 ### [Numerical computing](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 
@@ -198,8 +198,8 @@ operate on these arrays.
 [Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html),
 [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/),
 [Numpy Absolute Beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
-<br/>
 
+<br/>
 
 ### [Data Visualization](https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html)
 
@@ -212,8 +212,10 @@ scripts, the Python and IPython shells, the Jupyter notebook, web application
 servers, and four graphical user interface toolkits.
 
 **Prerequisites**: [Numerical computing](#numerical-computing)  
-**See also**: [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial), [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+**See also**: [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial), 
+[Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 
+<br/>
 
 ### [Scientific computing](http://scipy-lectures.org/intro/scipy.html)
 
@@ -247,7 +249,7 @@ numpy and scipy work hand in hand.
 
 ## 
 
-[Computational Neuroscience Crash Course (CNCC 2020)](https://github.com/rougier/CNCC-2020)  
+[Computational Neuroscience Crash Course (CNCC 2021)](https://github.com/bordeaux-neurocampus/CNCC-2021-beginner)  
 Copyright © 2020 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 [Anaconda]:   https://www.anaconda.com/
