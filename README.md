@@ -25,42 +25,10 @@ will be taught in English.
 
 <br/><br/>
 
-## Important dates
+## Schedule
 
 This year and due to the pandemic, the whole course will be online.
-This means you'll have to read the different lessons before each
-session, following the proposed schedule below:
-
-### Monday 5 July 2021
-  Make sure to have read (see below):
-  - Math: Linear Algebra 
-  - Prog: Installation + Introduction
-  
-### Tuesday 6 July 2021
-  Make sure to have read (see below):
-  - Math: Signal Processing
-  - Prog: Numerical computing
-
-### Wednesday 7 July 2021
-  Make sure to have read (seel below):
-  - Math: Fourier transform
-  - Prog: Scientific computing
-
-### Thursday 8 July 2021
-  Make sure to have read (seel below):
-  - Math: -
-  - Prog: -
-
-### Friday 9 July 2021 (Final Day)
-  Make sure to have read (seel below):
-  - Math: -
-  - Prog: -
-  
-Each morning (Monday, Tuesday and Wednesday), from 9am to 10am, we'll
-try to quickly highlight the main points on each lesson (15mn) and
-we'll take 45mn to answer any questions you may have on the lessons or
-the project.
-
+To avoid very long presentations over Zoom, **you'll have to read the material in advance**. The different topics will be briefly revised during the course. Please have a look at the [schedule](figures/Schedule.png) . 
 
 ## The (mini) project
 
@@ -84,10 +52,9 @@ For the project, we'll use Jupyter notebook and we'll start with the
 [project/introduction.ipynb](project/introduction.ipynb) notebook.
 
 <br/><br/>
-
 ## Mathematical lessons
 
-### [Linear Algebra](lessons/01-linear-algebra.pdf)
+### [Linear Algebra](lessons/math/01-linear-algebra-arthur.pdf)
 
 <img src="figures/indent.png" align="left"/>
 
@@ -161,7 +128,7 @@ Common applications of the Fourier Transform (Spectrograms) : https://www.dsprel
 
 <br/>
 
-### [Differential Equations (optional)](02-differential-equations.pdf)
+### [Differential Equations (optional)](lessons/math/differential-equations-optional.pdf)
 
 <img src="figures/indent.png" align="left"/>
 
@@ -190,7 +157,15 @@ a shell. We'll also introduce the Python & IPython shells, the Jupyter notebook
 and explains how to run a python script from the command line.  
 
 **Prerequisites**: None  
-**See also**: [Anaconda installation](https://docs.anaconda.com/anaconda/install/)  
+**See also**: [Anaconda installation](https://docs.anaconda.com/anaconda/install/), 
+[Datacamp tutorial for Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows),
+[Datacamp tutorial for MacOS](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x),
+[Miniconda tutorial Windows](https://katiekodes.com/setup-python-windows-miniconda/)
+[Miniconda tutorial MacOS](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html),
+[Tutorial on Jupyter Notebooks](https://www.dataquest.io/blog/jupyter-notebook-tutorial/),
+[A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks),
+[Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)
+
 <br/>
 
 
@@ -204,7 +179,8 @@ to object-oriented programming* (Python website). However, we'll only
 cover the strict minimum necessary for getting started with numerical computing.
 
 **Prerequisites**: [Installation](#installation)  
-**See also**: [Official Python tutorial](https://docs.python.org/tutorial) & [Dive into Python](https://diveintopython3.problemsolving.io/)  
+**See also**: [Official Python tutorial](https://docs.python.org/tutorial), [Dive into Python](https://diveintopython3.problemsolving.io/),
+[Learn Python](https://www.learnpython.org/)
 <br/>
 
 
@@ -218,7 +194,10 @@ matrices, along with a large collection of high-level mathematical functions to
 operate on these arrays.
 
 **Prerequisites**: [Introduction](#introduction)  
-**See also**: [Scipy Lecture Notes](https://scipy-lectures.org/), [Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) &  [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+**See also**: [Scipy Lecture Notes](https://scipy-lectures.org/), 
+[Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html),
+[From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/),
+[Numpy Absolute Beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
 <br/>
 
 
@@ -247,13 +226,29 @@ routines in Python; it is meant to operate efficiently on numpy arrays, so that
 numpy and scipy work hand in hand.
 
 **Prerequisites**: [Numerical computing](#numerical-computing)  
-**See also**: [Elegant Scipy](https://github.com/elegant-scipy/elegant-scipy), [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+**See also**: [Elegant Scipy](https://github.com/elegant-scipy/elegant-scipy), 
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/),
+[Python SciPy Tutorial - A Guide for Beginners](https://phoenixnap.com/kb/scipy-tutorial#ftoc-heading-1), 
+[SciPy Tutorial for Beginners](https://www.mygreatlearning.com/blog/scipy-tutorial/)
+
+<br/><br/>
+
+## Open Science & FAIR data
+### [The Open Science movement](https://en.wikipedia.org/wiki/Open_science) & [FAIR data](https://en.wikipedia.org/wiki/FAIR_data)
+
+<img src="figures/indent.png" align="left"/>
+
+**See also**: [FOSTER](https://www.fosteropenscience.eu/resources), 
+[Ouvrir la Science](https://www.ouvrirlascience.fr/open-science/),
+[UNESCO & Open science](https://en.unesco.org/science-sustainable-future/open-science),
+[FAIR by FOSTER](https://www.fosteropenscience.eu/learning/open-and-fair-research-data/#/id/5e3741af3ccdf1010dbc6f26),
+[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 
 
-##  
+## 
 
-[Computational Neuroscience Crash Course (CNCC 2021)](https://github.com/bordeaux-neurocampus/CNCC-2021-beginner)  
-Copyright © 2021 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+[Computational Neuroscience Crash Course (CNCC 2020)](https://github.com/rougier/CNCC-2020)  
+Copyright © 2020 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 [Anaconda]:   https://www.anaconda.com/
 [Emacs]:      http://www.emacs.org/
@@ -267,4 +262,3 @@ Copyright © 2021 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/pers
 [Matplotlib]: http://www.matplotlib.org/
 [Cython]:     https://cython.org/
 [Numba]:      https://numba.pydata.org/
-
