@@ -67,6 +67,8 @@ and the resolution of a system of linear equations will be explained.
 
 [Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
+<img src="figures/indent.png" align="left"/>
+
 [Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf): only Part 1, Chapter 2, 1-3 (ignore the least square approx in 4). 
 
 [Ch4 Linear Algebra (Owen&Corrado, Stanford U)](https://web.stanford.edu/class/nbio228-01/handouts/Ch4_Linear_Algebra.pdf)
@@ -92,6 +94,8 @@ to reveal similarity between signals.
 
 What is signal processing, and why? https://www.youtube.com/watch?v=YmSvQe2FDKs
 
+<img src="figures/indent.png" align="left"/>
+
 Basic signals and their graphs: https://technobyte.org/signal-systems-types-differences/
 
 Sampling Theorem: https://www.dsprelated.com/freebooks/mdft/Sampling_Theory.html
@@ -101,6 +105,8 @@ Sampling Theorem: https://www.dsprelated.com/freebooks/mdft/Sampling_Theory.html
 
 Autocorrelation : https://www.dsprelated.com/freebooks/mdft/Autocorrelation.html
 
+<img src="figures/indent.png" align="left"/>
+
 Crosscorrelation : https://www.dsprelated.com/freebooks/mdft/Cross_Correlation.html
 
 Video explanation and demo : https://www.youtube.com/watch?v=_r_fDlM0Dx0
@@ -108,6 +114,8 @@ Video explanation and demo : https://www.youtube.com/watch?v=_r_fDlM0Dx0
 The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
 
 Fourier transform :
+
+<img src="figures/indent.png" align="left"/>
 
 https://en.wikipedia.org/wiki/Fourier_transform (up to 5.1 basic properties)
 
@@ -117,14 +125,19 @@ https://www.youtube.com/watch?v=spUNpyF58BY
 
 From DFT to FFT : https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
 
+<img src="figures/indent.png" align="left"/>
+
 Intuitive definition : https://sites.northwestern.edu/elannesscohn/2019/07/30/developing-an-intuition-for-fourier-transforms/
+
 More complete definition : https://physiology.med.cornell.edu/people/banfelder/qbio/resources_2016/S.2_fourier.pdf
 
 A video course on the basics of Fourier transform : https://www.ibiology.org/talks/fourier-transform/
 
 To go beyond, the history and many applications of Fourier transforms : http://www.yalescientific.org/2010/12/fourier-transform-natures-way-of-analyzing-figures/
 
-Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
+<img src="figures/indent.png" align="left" height="85"  >
+
+.  Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
 
 <br/>
 
