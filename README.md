@@ -147,7 +147,7 @@ equation.
 
 ## Programming lessons
 
-### [Installation](lessons/01-installation.md)
+### [Installation](lessons/programming/01-installation.md)
 
 <img src="figures/indent.png" align="left"/>
 
@@ -169,7 +169,7 @@ and explains how to run a python script from the command line.
 <br/>
 
 
-### [Introduction](lessons/02-introduction.md)
+### [Introduction](lessons/programming/02-introduction.md)
 
 <img src="figures/indent.png" align="left"/>
 
