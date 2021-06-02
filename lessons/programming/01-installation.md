@@ -76,7 +76,7 @@ type `Control-D`.
 <br/><br/>
 ## Installation
 
-As of today (2019), Python exists mainly in two flavors: Python 2.x
+As of today (2021), Python exists mainly in two flavors: Python 2.x
 (deprecated) and Python 3.x. On some systems, the 2.x version is already
 installed and for some systems, the 3.x version might be installed as well (or
 instead). However, we cannot use any of them because we'll need to install

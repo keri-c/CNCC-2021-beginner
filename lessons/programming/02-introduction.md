@@ -29,6 +29,10 @@ The primary goals of this lesson are:
   
 <br/><br/>
 
+## Step Zero
+
+For this tutorial, you can use either a IPython environment, or write your own Jupyter Notebook. If you choose the latter but are new to the process, you can look into some [Jupyter Tutorials](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) to get started.
+
 
 ## First steps
 
