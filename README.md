@@ -263,7 +263,7 @@ numpy and scipy work hand in hand.
 ## 
 
 [Computational Neuroscience Crash Course (CNCC 2021)](https://github.com/bordeaux-neurocampus/CNCC-2021-beginner)  
-Copyright © 2020 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+Copyright © 2021 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 [Anaconda]:   https://www.anaconda.com/
 [Emacs]:      http://www.emacs.org/
