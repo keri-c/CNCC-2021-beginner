@@ -134,3 +134,4 @@ dmypy.json
 # Dataset & completed final project
 project/records/
 project/project.ipynb
+project/.part-1.ipynb
