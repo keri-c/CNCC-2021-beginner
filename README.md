@@ -137,7 +137,7 @@ To go beyond, the history and many applications of Fourier transforms : http://w
 
 <img src="figures/indent.png" align="left" height="85"  >
 
-.  Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
+Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
 
 <br/>
 
