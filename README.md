@@ -167,7 +167,8 @@ equation.
 This lesson aims at providing the student with a clean development environment,
 including Python installation and essential packages, a decent text editor, and
 a shell. We'll also introduce the Python & IPython shells, the Jupyter notebook
-and explains how to run a python script from the command line.  
+and explains how to run a python script from the command line.
+In case you cannot install Python/Anaconda in your computer, you can use [Google Colab](https://colab.research.google.com/github/bordeaux-neurocampus/CNCC-2021-beginner/blob/main/project/introduction.ipynb). Further information on how to use Colab with our data will be given during the course.
 
 **Prerequisites**: None  
 **See also**: [Anaconda installation](https://docs.anaconda.com/anaconda/install/), 

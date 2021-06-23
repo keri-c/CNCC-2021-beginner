@@ -1,4 +1,4 @@
-[Computational Neuroscience Crash Course (2019)](https://github.com/rougier/NeuroComp-Bordeaux-2019) —
+[Computational Neuroscience Crash Course (2021)](https://github.com/bordeaux-neurocampus/CNCC-2021-beginner) —
 Arthur Leblois (CNRS) & Nicolas P. Rougier (Inria)<br/>
 
 # Introduction
@@ -1292,7 +1292,7 @@ of Python.
 
 ##  
 
-**Copyright © 2019** Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – Released under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+**Copyright © 2021** Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – Released under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 <!----------------------------- External links ------------------------------->
 [Anaconda]:     https://www.anaconda.com
