@@ -135,3 +135,6 @@ dmypy.json
 project/records/
 project/project-solution.ipynb
 project/.part-1.ipynb
+
+# Solutions to exercises
+lessons/Jupyter\ Notebooks/Solutions/
