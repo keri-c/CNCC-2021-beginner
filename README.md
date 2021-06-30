@@ -148,59 +148,6 @@ More complete definition : https://physiology.med.cornell.edu/people/banfelder/q
 
 <br/>
 
----
-
-**Useful (_optional_) material and links**
-
-### Pt.1 - Linear Algebra
-<img src="figures/indent.png" align="left"/>
-
-[Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
-
-[Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf): only Part 1, Chapter 2, 1-3 (ignore the least square approx in 4). 
-
-[Ch4 Linear Algebra (Owen&Corrado, Stanford U)](https://web.stanford.edu/class/nbio228-01/handouts/Ch4_Linear_Algebra.pdf)
-
-[Matrices | Introduction, notation, properties](https://www.dsprelated.com/freebooks/mdft/Matrices.html)
-
-<br/>
-
-### Pt.2 - Signal Processing
-
-<img src="figures/indent.png" align="left"/>
-
-A video course on the basics of Fourier transform : https://www.ibiology.org/talks/fourier-transform/
-
-Fourier Theorems and properties : https://www.dsprelated.com/freebooks/mdft/Fourier_Theorems.html
-
-From DFT to FFT : https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
-
-To go beyond, the history and many applications of Fourier transforms : http://www.yalescientific.org/2010/12/fourier-transform-natures-way-of-analyzing-figures/
-
-Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
-
-Autocorrelation : https://www.dsprelated.com/freebooks/mdft/Autocorrelation.html
-
-Crosscorrelation : https://www.dsprelated.com/freebooks/mdft/Cross_Correlation.html
-
-The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
-
-<br/>
-
-### [Differential Equations (optional)](lessons/math/differential-equations-optional.pdf)
-
-<img src="figures/indent.png" align="left"/>
-
-The provided document covers first-order differential equations (that can describe
-the evolution of a membrane potential, for example).
-
-**Prerequisites**: None
-**See also**:
-[Wikipedia | Differential Equations](https://en.wikipedia.org/wiki/Differential_equation) &
-[Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf)
-
----
-
 
 <br/><br/>
 
@@ -306,6 +253,60 @@ numpy and scipy work hand in hand.
 [FAIR by FOSTER](https://www.fosteropenscience.eu/learning/open-and-fair-research-data/#/id/5e3741af3ccdf1010dbc6f26),
 [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
 
+</br></br></br>
+
+## Useful (_optional_) material and links
+
+### Pt.1 - Linear Algebra
+<img src="figures/indent.png" align="left"/>
+
+[Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+
+[Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf): only Part 1, Chapter 2, 1-3 (ignore the least square approx in 4). 
+
+[Ch4 Linear Algebra (Owen&Corrado, Stanford U)](https://web.stanford.edu/class/nbio228-01/handouts/Ch4_Linear_Algebra.pdf)
+
+[Matrices | Introduction, notation, properties](https://www.dsprelated.com/freebooks/mdft/Matrices.html)
+
+<br/>
+
+### Pt.2 - Signal Processing
+
+<img src="figures/indent.png" align="left"/>
+
+A video course on the basics of Fourier transform : https://www.ibiology.org/talks/fourier-transform/
+
+Fourier Theorems and properties : https://www.dsprelated.com/freebooks/mdft/Fourier_Theorems.html
+
+From DFT to FFT : https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
+
+To go beyond, the history and many applications of Fourier transforms : http://www.yalescientific.org/2010/12/fourier-transform-natures-way-of-analyzing-figures/
+
+<img src="figures/indent.png" align="left"/>
+
+Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
+
+Autocorrelation : https://www.dsprelated.com/freebooks/mdft/Autocorrelation.html
+
+Crosscorrelation : https://www.dsprelated.com/freebooks/mdft/Cross_Correlation.html
+
+The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
+
+<br/>
+
+### [Differential Equations (optional)](lessons/math/differential-equations-optional.pdf)
+
+<img src="figures/indent.png" align="left"/>
+
+The provided document covers first-order differential equations (that can describe
+the evolution of a membrane potential, for example).
+
+**Prerequisites**: None
+**See also**:
+[Wikipedia | Differential Equations](https://en.wikipedia.org/wiki/Differential_equation) &
+[Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf)
+
+<br/><br/>
 
 ## 
 
