@@ -39,9 +39,10 @@ To avoid very long presentations over Zoom, **you'll have to read the material i
  * Download the dataset from [Figshare](https://figshare.com/)
  * Watch the videos on Linear Algebra. We will solve some of the exercises on Tuesday (day #2).
 
+2. Tuesday, July 6th, 2021 (Day #2)
+
 <img src="figures/indent.png" align="left"/>
 
-2. Tuesday, July 6th, 2021 (Day #2)
  * Read the [notebook on filtering](lessons/Jupyter Notebooks/Tutorial on filtering.ipynb)
  * Solve the exercises on Linear Algebra (1-7, or go even further if you can)
  * Read the provided references for signal processing (up to Fourier Transform, which will be covered on Wednesday)
