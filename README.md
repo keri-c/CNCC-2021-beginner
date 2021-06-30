@@ -28,7 +28,34 @@ will be taught in English.
 ## Schedule
 
 This year and due to the pandemic, the whole course will be online.
-To avoid very long presentations over Zoom, **you'll have to read the material in advance**. The different topics will be briefly revised during the course. Please have a look at the [schedule](figures/Schedule.png) . 
+To avoid very long presentations over Zoom, **you'll have to read the material in advance**. The different topics will be briefly revised during the course. Please have a look at the [schedule](figures/Schedule.png).
+
+**What to prepare before each day:**
+
+<img src="figures/indent.png" align="left"/>
+
+1. Monday, July 5th, 2021 (Day #1)
+ * Install the necessary software (Jupyter, Anaconda) and the required modules (Scipy, Numpy, Matplotlib). Instructions can be found [here](lessons/programming/01-installation.md).
+ * Download the dataset from [Figshare](https://figshare.com/)
+ * Watch the videos on Linear Algebra. We will solve some of the exercises on Tuesday (day #2).
+
+<img src="figures/indent.png" align="left"/>
+
+2. Tuesday, July 6th, 2021 (Day #2)
+ * Read the [notebook on filtering](lessons/Jupyter Notebooks/Tutorial on filtering.ipynb)
+ * Solve the exercises on Linear Algebra (1-7, or go even further if you can)
+ * Read the provided references for signal processing (up to Fourier Transform, which will be covered on Wednesday)
+3.Wednesday, July 7th, 2021 (Day #3)
+
+<img src="figures/indent.png" align="left"/>
+
+ * Solve the exercises on Signal Processing
+ * Read the provided references on the Fourier Transform
+4. Thursday, July 8th, 2021 (Day #4)
+5. Friday, July 9th, 2021 (Day #5, final)
+ * Work on producing your final report; emphasis on comments and _documentation_.
+
+</br>
 
 ## The (mini) project
 
@@ -42,32 +69,91 @@ function `songsort(directory)` that will automatically sort
 all the files present in some-path and label them accordingly.  
 
 For the project, you'll need to team with someone else such as to work
-together at one computer ([pair
-programming](https://en.wikipedia.org/wiki/Pair_programming)). When
+together at one computer ([pair programming](https://en.wikipedia.org/wiki/Pair_programming)). When
 one is typing, the other is reading an commenting and for maximum
 efficiency, you'll have to switch roles frequently. This can be done
 online by sharing the screen of someone.  
 
-For the project, we'll use Jupyter notebook and we'll start with the
-[project/introduction.ipynb](project/introduction.ipynb) notebook.
+For the project, we'll use [Jupyter](https://jupyter.org/) and the 
+[provided notebook](project/project-2021.ipynb), which you will 
+complete during the duration of the course.
 
 <br/><br/>
-## Mathematical lessons
+
+## Mathematics
 
 ### [Linear Algebra](lessons/math/01-linear-algebra-arthur.pdf)
 
 <img src="figures/indent.png" align="left"/>
 
-This course will introduce vectors and matrices, how to peform operations such
-as addition & multiplication on these objects. The correspondence with geometry
-and the resolution of a system of linear equations will be explained.
+In this part of the course we will introduce vectors and matrices, how to peform 
+operations (such as addition & multiplication) on these objects, the correspondence 
+with geometry and we will learn to solve a system of linear equations. All the above
+will be accompanied by an introduction to Linear Algebra using Python.
 
 **Prerequisites**: None  
 **On-line courses**:
 
-[Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+We highly recommend you start your study on linear algebra by watching the 
+[Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+videos by 3Blue1Brown on YouTube. Emphasis should be placed on chapters 1-11, as these
+chapters cover all the material you will need to complete this course. Feel free
+to watch the other videos though, as they are highly interesting!
+
+**Exercises**:
+[Linear Algebra Exercises Set](lessons/math/Linear_Algebra_HW_set.pdf)
+
+<br/>
+
+### [Signal Processing](lessons/math/Discrete_Time_Signals_and_HW.pdf)
 
 <img src="figures/indent.png" align="left"/>
+
+We will start by introducing a few basic signals, all in discrete time. We will show
+examples using Python and go over the Fourier Transform, which is ubiquituous in
+signal processing. Next, we will introduce spectral analysis and learn how to compute
+the correlation of signals in order to reveal similarities between them.
+All this material will be covered in the course of two days (Tuesday and Wednesday).
+
+**Prerequisites**: None  
+**On-line courses**:
+
+You should start by reviewing the following:
+
+1. What is signal processing, and why do we care? https://www.youtube.com/watch?v=YmSvQe2FDKs
+
+2. Basic signals and their graphs: https://technobyte.org/signal-systems-types-differences/
+
+3. Sampling Theorem: https://www.dsprelated.com/freebooks/mdft/Sampling_Theory.html
+
+4. [Wikipedia | Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation) and [Wikipedia | Cross-correlation](https://en.wikipedia.org/wiki/Cross-correlation): (in both pages, focus on the case of ‘deterministic signals’ and ignore the case of random vectors).
+Video explanation and demo : https://www.youtube.com/watch?v=_r_fDlM0Dx0
+
+5. Fourier transform :
+
+<img src="figures/indent.png" align="left"/>
+
+[Wikipedia | Fourier Transform](https://en.wikipedia.org/wiki/Fourier_transform) (up to 5.1 basic properties)
+
+But what is the Fourier Transform? A visual introduction : https://www.youtube.com/watch?v=spUNpyF58BY
+
+Intuitive definition : https://sites.northwestern.edu/elannesscohn/2019/07/30/developing-an-intuition-for-fourier-transforms/
+
+More complete definition : https://physiology.med.cornell.edu/people/banfelder/qbio/resources_2016/S.2_fourier.pdf
+
+**Exercises**:
+[Discrete Time Signals Exercises Set](lessons/math/Discrete_Time_Signals_and_HW.pdf)
+
+<br/>
+
+---
+
+**Useful (_optional_) material and links**
+
+### Pt.1 - Linear Algebra
+<img src="figures/indent.png" align="left"/>
+
+[Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
 
 [Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf): only Part 1, Chapter 2, 1-3 (ignore the least square approx in 4). 
 
@@ -75,69 +161,27 @@ and the resolution of a system of linear equations will be explained.
 
 [Matrices | Introduction, notation, properties](https://www.dsprelated.com/freebooks/mdft/Matrices.html)
 
-**Exercises**:
- PDF link: https://drive.google.com/file/d/1i2xM37M35iSrTbXoNOX5qQFARRrH2MTn/view?usp=sharing
-
 <br/>
 
-### Signal Processing
+### Pt.2 - Signal Processing
 
 <img src="figures/indent.png" align="left"/>
-
-We'll explain first what is the Fourier transform that is ubiquituous in signal
-processing, what is spectral analysis and how to compute correlation in order
-to reveal similarity between signals.
-
-**Prerequisites**: None  
-**On-line courses**:
-
-
-What is signal processing, and why? https://www.youtube.com/watch?v=YmSvQe2FDKs
-
-<img src="figures/indent.png" align="left"/>
-
-Basic signals and their graphs: https://technobyte.org/signal-systems-types-differences/
-
-Sampling Theorem: https://www.dsprelated.com/freebooks/mdft/Sampling_Theory.html
-
-[Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation) and [Cross-correlation](https://en.wikipedia.org/wiki/Cross-correlation):
-(in both pages, focus on the case of ‘deterministic signals’ and ignore the case of random vectors)
-
-Autocorrelation : https://www.dsprelated.com/freebooks/mdft/Autocorrelation.html
-
-<img src="figures/indent.png" align="left"/>
-
-Crosscorrelation : https://www.dsprelated.com/freebooks/mdft/Cross_Correlation.html
-
-Video explanation and demo : https://www.youtube.com/watch?v=_r_fDlM0Dx0
-
-The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
-
-Fourier transform :
-
-<img src="figures/indent.png" align="left"/>
-
-https://en.wikipedia.org/wiki/Fourier_transform (up to 5.1 basic properties)
-
-https://www.dsprelated.com/freebooks/mdft/Fourier_Theorems.html
-
-https://www.youtube.com/watch?v=spUNpyF58BY
-
-From DFT to FFT : https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
-
-<img src="figures/indent.png" align="left"/>
-
-Intuitive definition : https://sites.northwestern.edu/elannesscohn/2019/07/30/developing-an-intuition-for-fourier-transforms/
-
-More complete definition : https://physiology.med.cornell.edu/people/banfelder/qbio/resources_2016/S.2_fourier.pdf
 
 A video course on the basics of Fourier transform : https://www.ibiology.org/talks/fourier-transform/
 
+Fourier Theorems and properties : https://www.dsprelated.com/freebooks/mdft/Fourier_Theorems.html
+
+From DFT to FFT : https://www.dsprelated.com/freebooks/mdft/Why_DFT_usually_called.html
+
 To go beyond, the history and many applications of Fourier transforms : http://www.yalescientific.org/2010/12/fourier-transform-natures-way-of-analyzing-figures/
 
-<img src="figures/indent.png" align="left" height="85"  >
-
 Common applications of the Fourier Transform (Spectrograms) : https://www.dsprelated.com/freebooks/mdft/Spectrograms.html
+
+Autocorrelation : https://www.dsprelated.com/freebooks/mdft/Autocorrelation.html
+
+Crosscorrelation : https://www.dsprelated.com/freebooks/mdft/Cross_Correlation.html
+
+The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
 
 <br/>
 
@@ -145,16 +189,16 @@ Common applications of the Fourier Transform (Spectrograms) : https://www.dsprel
 
 <img src="figures/indent.png" align="left"/>
 
-We'll cover first-order differential equations (that can for example describe
-the evolution of a membrane potential). We'll see how to analyze and solve such
-equation. 
+The provided document covers first-order differential equations (that can describe
+the evolution of a membrane potential, for example).
 
-**Prerequisites**: None  
+**Prerequisites**: None
 **See also**:
 [Wikipedia | Differential Equations](https://en.wikipedia.org/wiki/Differential_equation) &
 [Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf)
 
-<br/>
+---
+
 
 <br/><br/>
 
