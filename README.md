@@ -48,9 +48,6 @@ To avoid very long presentations over Zoom, **you'll have to read the material i
  * Read the provided references for signal processing (up to Fourier Transform, which will be covered on Wednesday)
 
 3. Wednesday, July 7th, 2021 (Day #3)
-
-<img src="figures/indent.png" align="left"/>
-
  * Solve the exercises on Signal Processing
  * Read the provided references on the Fourier Transform
 
