@@ -45,17 +45,18 @@ To avoid very long presentations over Zoom, **you'll have to read the material i
  * Read the [notebook on filtering](lessons/Jupyter Notebooks/Tutorial on filtering.ipynb)
  * Solve the exercises on Linear Algebra (1-7, or go even further if you can)
  * Read the provided references for signal processing (up to Fourier Transform, which will be covered on Wednesday)
-3.Wednesday, July 7th, 2021 (Day #3)
+
+3. Wednesday, July 7th, 2021 (Day #3)
 
 <img src="figures/indent.png" align="left"/>
 
  * Solve the exercises on Signal Processing
  * Read the provided references on the Fourier Transform
+
 4. Thursday, July 8th, 2021 (Day #4)
+
 5. Friday, July 9th, 2021 (Day #5, final)
  * Work on producing your final report; emphasis on comments and _documentation_.
-
-</br>
 
 ## The (mini) project
 
