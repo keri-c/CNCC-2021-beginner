@@ -43,7 +43,7 @@ To avoid very long presentations over Zoom, **you'll have to read the material i
 
 <img src="figures/indent.png" align="left"/>
 
- * Read the [notebook on filtering](lessons/Jupyter Notebooks/Tutorial on filtering.ipynb)
+ * Read the [notebook on filtering](lessons/Jupyter&#32;Notebooks/Tutorial&#32;on&#32;filtering.ipynb')
  * Solve the exercises on Linear Algebra (1-7, or go even further if you can)
  * Read the provided references for signal processing (up to Fourier Transform, which will be covered on Wednesday)
 
