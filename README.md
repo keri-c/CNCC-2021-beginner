@@ -36,7 +36,7 @@ To avoid very long presentations over Zoom, **you'll have to read the material i
 
 1. Monday, July 5th, 2021 (Day #1)
  * Install the necessary software (Jupyter, Anaconda) and the required modules (Scipy, Numpy, Matplotlib). Instructions can be found [here](lessons/programming/01-installation.md).
- * Download the dataset from [Figshare](https://figshare.com/)
+ * Download the dataset from [Figshare](https://figshare.com/). Use the following keywords: songbird, dataset, leblois
  * Watch the videos on Linear Algebra. We will solve some of the exercises on Tuesday (day #2).
 
 2. Tuesday, July 6th, 2021 (Day #2)
