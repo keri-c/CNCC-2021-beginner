@@ -55,6 +55,8 @@ To avoid very long presentations over Zoom, **you'll have to read the material i
  * Read the provided references on the Fourier Transform
 
 4. Thursday, July 8th, 2021 (Day #4)
+* Install [Pandoc](https://pandoc.org/installing.html)
+* Check if you have [nbconvert](https://nbconvert.readthedocs.io/en/latest/install.html#installing-nbconvert) installed in your environment (you should, if you have jupyter notebook or lab). A further Latex installation might be necessary if you want to export your notebook to [pdf](https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex). 
 
 5. Friday, July 9th, 2021 (Day #5, final)
  * Work on producing your final report; emphasis on comments and _documentation_.
@@ -161,7 +163,7 @@ This lesson aims at providing the student with a clean development environment,
 including Python installation and essential packages, a decent text editor, and
 a shell. We'll also introduce the Python & IPython shells, the Jupyter notebook
 and explains how to run a python script from the command line.
-In case you cannot install Python/Anaconda in your computer, you can use [Google Colab](https://colab.research.google.com/github/bordeaux-neurocampus/CNCC-2021-beginner/blob/main/project/project-2021.ipynb). Further information on how to use Colab with our data will be given during the course.
+In case you cannot install Python/Anaconda in your computer, you can use [Google Colab](https://colab.research.google.com/github/bordeaux-neurocampus/CNCC-2021-beginner/blob/main/project/project-2021.ipynb). We've added a short tutorial on how to use Colab in [here](lessons/programming/colab_steps.md).
 
 **Prerequisites**: None  
 **See also**: [Anaconda installation](https://docs.anaconda.com/anaconda/install/), 
